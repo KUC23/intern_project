@@ -28,7 +28,10 @@ http://52.78.161.60:8000/swagger/
 <br>
 
 ### pytest 결과
-
+<details>
+<summary> pytest 결과  </summary>
+<div markdown="1">
+ 
 ##### 로그인 성공
 intern_project/users/tests/test_login.
 py::TestLogin::test_login_success PASSED [ 25%] <br>
@@ -45,6 +48,8 @@ py::TestSignup::test_signup_success PASSED [ 75%]<br>
 intern_project/users/tests/test_signup.
 py::TestSignup::test_signup_user_already_exists PASSED [100%]<br>
 
+</div>
+</details>
 
 ### 트러블 슈팅
 <details>
